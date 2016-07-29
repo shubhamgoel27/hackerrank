@@ -15,8 +15,8 @@ The next line contains  space-separated integers where element  corresponds to a
 """
 
 from collections import Counter
-
-n = input() #The length of array
+#The length of array
+n = input() 
 
 
 arr = [int(x) for x in raw_input().split()]
